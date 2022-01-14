@@ -1,0 +1,49 @@
+{
+    "burgers": [
+        {
+            "id": 0,
+            "name": "Tribute Bruger",
+            "restaurant": "Honest Burgers",
+            "web": "www.honestburgers.uk.co",
+            "description": "A mouth-watering honest beef burger",
+            "ingredients": [
+                "beef",
+                "american cheese",
+                "burger sauce",
+                "french mustard"
+            ],
+            "addressess": [
+                {
+                    "adderessid": "0",
+                    "number": "75",
+                    "line1": "Venn Street",
+                    "line2": "Clapham",
+                    "postcode": "SW4 0BD",
+                    "country": "United Kingdom"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Pulled Mooshie",
+            "restaurant": "Mooshies",
+            "web": "www.veganburger.com",
+            "description": "Spicy vegan burger with jackfruit",
+            "ingredients": [
+                "jack fruit",
+                "coleslaw",
+                "gluten free bun"
+            ],
+            "addressess": [
+                {
+                    "addressid": "1",
+                    "number": "104",
+                    "line1": "Brick lane",
+                    "line2": "Shoreditch",
+                    "postcode": "E1 6RL",
+                    "country": "United Kingdom"
+                }
+            ]
+        }
+    ]
+}
